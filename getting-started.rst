@@ -12,11 +12,10 @@ Download and install Node JS from https://nodejs.org/ . Choose the latest **Curr
 Download and install Visual Studio 2017 Community edition from https://www.visualstudio.com/vs/office-tools/
 When installing VS choose (st least) the following:
 
-.. Workloads::
-    - **.NET desktop development** - Found in Windows section
-    - **ASP.NET and web pevelopment** - Found in Web & Cloud section
-    - **Node.js development** - Found in Web & Cloud section
-    - **Office/Sharepoint Development** -  Found in Web & Cloud section
+- **.NET desktop development** - Found in Windows section
+- **ASP.NET and web pevelopment** - Found in Web & Cloud section
+- **Node.js development** - Found in Web & Cloud section
+- **Office/Sharepoint** Development -  Found in Web & Cloud section
 
 
 4. Install Omnia Tooling for Visual Studio
