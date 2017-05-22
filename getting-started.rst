@@ -9,7 +9,7 @@ Download and install Node JS from https://nodejs.org/ . Choose the latest **Curr
 2. Install Visual Studio 2017
 ####
 
-Download and install Visual Studio 2017 Community edition from https://www.visualstudio.com/vs/office-tools/
+Download and install Visual Studio 2017 from https://www.visualstudio.com/vs/office-tools/
 When installing VS choose (at least) the following:
 
 - **.NET desktop development** - Found in Windows section
