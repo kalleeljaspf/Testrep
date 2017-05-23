@@ -6,17 +6,19 @@ Getting Started
 
 Download and install Node JS from https://nodejs.org/ . Choose the latest **Current** version.
 
-2. Install Visual Studio 2017
+2. Install Visual Studio
 ####
 
 Download and install Visual Studio 2017 from https://www.visualstudio.com/vs/office-tools/
-When installing VS choose (at least) the following:
+When installing VS2017 choose (at least) the following:
 
 - **.NET desktop development** - Found in Windows section
 - **ASP.NET and web pevelopment** - Found in Web & Cloud section
 - **Node.js development** - Found in Web & Cloud section
-- **Office/Sharepoint** Development -  Found in Web & Cloud section
+- **Office/Sharepoint Development** -  Found in Web & Cloud section
+- **Typescript 2.1** - Found in individual components
 
+Typescript for Visual Studio 2015 can be found here: https://www.microsoft.com/en-us/download/details.aspx?id=48593
 
 4. Install Omnia Tooling for Visual Studio
 ##############################################################
